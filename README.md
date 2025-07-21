@@ -1,14 +1,14 @@
 ## 🤖 ChatBot using Google Gemini API
 
-A lightweight conversational chatbot powered by the Google Gemini API and built with Python. It provides intelligent and interactive responses to user queries, blending natural language understanding with creative and insightful replies.
+A lightweight conversational chatbot powered by the Google Gemini API, built with Python and Streamlit. It delivers intelligent, creative, and interactive responses to user queries, blending natural language understanding with real-time conversation flow.
 
 ### Features
 
-- AI-powered intelligent replies using Google Gemini
-- Supports both English and Hindi mixed-language queries
-- Contextual and insightful responses
-- Secure API key management using .env file
-- Easy to run, lightweight, and customizabl
+AI-powered replies using Google Gemini 2.5
+Supports English and Hindi mixed-language queries
+Context-aware and insightful responses
+Secure API key management using .env
+Lightweight, customizable, and easy to deploy
 
 ### Tech Stack
 
@@ -16,4 +16,3 @@ A lightweight conversational chatbot powered by the Google Gemini API and built 
 - Google Generative AI 
 - Streamlit
 - Dotenv
-
