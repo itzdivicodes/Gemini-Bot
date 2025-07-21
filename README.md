@@ -22,14 +22,3 @@ A smart, fun, and lightweight chatbot powered by the **Google Gemini API** that 
 - Dotenv (for environment variable management)
 
 ---
-
-## Project Structure
-
-chatbot-gemini/
-│
-├── app.py                  # Main application logic
-├── bot.py                  # Gemini API interaction module
-├── .env                    # Hidden file to store API key
-├── requirements.txt        # Required Python packages
-├── README.md               # Project documentation
-└── ...
