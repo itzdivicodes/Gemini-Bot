@@ -16,6 +16,6 @@ A smart, fun, and lightweight chatbot powered by the **Google Gemini API** that 
 
 - Python 3
 - Google Generative AI SDK (`google-genai`)
-- Flask or Streamlit *(optional - if UI is used)*
-- Dotenv (for environment variable management)
+- Streamlit
+- Dotenv
 
