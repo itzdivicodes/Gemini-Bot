@@ -2,7 +2,6 @@
 
 A smart, fun, and lightweight chatbot powered by the **Google Gemini API** that understands and responds intelligently to user queries in a conversational tone.
 
----
 
 ## Features
 
@@ -12,7 +11,6 @@ A smart, fun, and lightweight chatbot powered by the **Google Gemini API** that 
 - Secure API key management using `.env` file
 - Easy to run, lightweight, and customizable
 
----
 
 ## Tech Stack
 
@@ -21,4 +19,3 @@ A smart, fun, and lightweight chatbot powered by the **Google Gemini API** that 
 - Flask or Streamlit *(optional - if UI is used)*
 - Dotenv (for environment variable management)
 
----
